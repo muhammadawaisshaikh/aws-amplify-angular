@@ -4,6 +4,8 @@ In this workshop we'll learn how to build cloud-enabled web applications with An
 
 ![](https://i.imgur.com/GW1Nk5B.png)
 
+AMplify Docs: https://docs.amplify.aws/start/getting-started/setup/q/integration/angular/
+
 ### Topics we'll be covering:
 
 - [Authentication](#adding-authentication)
